@@ -46,7 +46,7 @@ const Nav = () => {
               </p>
             </Link>
             <Link
-              href="/files/Resume.pdf"
+              href="https://my-resume-vishal-jatia.tiiny.site"
               alt="Resume"
               target="_blank"
               rel="noopener noreferrer"
@@ -206,7 +206,12 @@ const Nav = () => {
           href="https://github.com/Vishal-jatia"
           className="border rounded-full p-3 hover:scale-105"
         >
-          <Image src="https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784637/public/icons/github_daaho9.svg" width={20} height={20} alt="github" />
+          <Image
+            src="https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784637/public/icons/github_daaho9.svg"
+            width={20}
+            height={20}
+            alt="github"
+          />
         </Link>
         <Link
           href="https://www.linkedin.com/in/vishal-jatia-638146229/"
