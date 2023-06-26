@@ -110,7 +110,7 @@ const projects = [
     key: 6,
     name: "Portfolio Website",
     description:
-      "Introducing MalariaMind, an advanced AI model revolutionizing the fight against malaria by leveraging extensive global data analysis. MalariaGuardian analyzes historical malaria cases from around the world and provides actionable insights and effective measures tailored to specific locations to combat various species of mosquitoes. Drawing on a vast database of historical malaria data, MalariaGuardian utilizes machine learning algorithms to identify patterns, trends, and correlations in mosquito-borne disease outbreaks. By considering factors such as climate, geography, mosquito species prevalence, and past intervention strategies, MalariaGuardian generates comprehensive recommendations to help individuals and communities take the most effective measures against different mosquito species.",
+      "Introducing a cutting-edge personal portfolio website built with Next.js 13 and Tailwind, incorporating the latest design trends and developed with best practices in mind. This meticulously crafted website showcases my professional accomplishments, skills, and creative projects in an immersive and visually stunning manner. The first thing that sets this portfolio apart is its utilization of Next.js 13, the latest version of the popular React framework. Next.js 13 brings enhanced performance, improved development experience, and increased scalability to ensure your website loads swiftly and delivers an exceptional user experience across devices and platforms.",
     type: "WEB DEVELOPMENT",
     startDate: "2023/06/22",
     endDate: "2023/06/26",
@@ -121,7 +121,7 @@ const projects = [
       "https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784634/public/images/tech%20stack/figma_z3cpyd.svg",
       "https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687785438/public/images/tech%20stack/vercel_jyz4mp.svg",
     ],
-    codeLink: "https://github.com/Vishal-jatia/Malaria-Ai-Predictor",
+    codeLink: "https://github.com/Vishal-jatia/MyPortfolio",
     liveLink: "https://vishal-jatia.vercel.app/",
     completed: true,
     image:
