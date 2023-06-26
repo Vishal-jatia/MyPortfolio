@@ -13,7 +13,7 @@ const Nav = () => {
   const [toggleDropdown, setToggleDropdown] = useState(false);
   return (
     <motion.nav
-      className="flex justify-between w-full mx-2 my-3"
+      className="flex justify-between w-full -mx-2 md:mx-2 my-0 md:my-3"
       initial={false}
       animate={toggleDropdown ? "open" : "closed"}
     >
@@ -21,7 +21,7 @@ const Nav = () => {
         <div className="flex gap-1">
           <Link
             href="/"
-            className="border rounded-full flex justify-between items-center cursor-pointer"
+            className="border rounded-full flex justify-between items-center cursor-pointer scale-75 md:scale-100 -mx-4 md:mx-0"
             onClick={() => {
               setToggleDropdown(false);
             }}
@@ -61,9 +61,9 @@ const Nav = () => {
             </Link>
           </div>
         </div>
-        <div className="lg:hidden flex relative z-50 justify-end">
+        <div className="lg:hidden flex relative z-50 justify-end md:scale-100 scale-75">
           <button
-            className="border rounded-full px-1 flex justify-between items-center mr-3"
+            className="border rounded-full px-1 flex justify-between items-center -mr-3 md:mr-3"
             onClick={() => {
               setToggleDropdown(!toggleDropdown);
             }}
