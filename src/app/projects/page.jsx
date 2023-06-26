@@ -92,7 +92,7 @@ const page = () => {
                   className="object-cover rounded-2xl group-hover/all:scale-110 duration-300 ease-in-out"
                 />
                 <Image
-                  src="/icons/Arrow-circle.svg"
+                  src="https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784628/public/icons/Arrow-circle_vmqdha.svg"
                   alt="arrow"
                   width={50}
                   height={50}
@@ -128,7 +128,7 @@ const page = () => {
                     <div className="flex w-full items-center justify-between mx-5 md:mx-10 border-b mb-5">
                       <h4>Github</h4>
                       <Image
-                        src="/icons/Arrow-circle.svg"
+                        src="https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784628/public/icons/Arrow-circle_vmqdha.svg"
                         alt="arrow"
                         width={30}
                         height={30}
@@ -143,7 +143,7 @@ const page = () => {
                     <div className="flex items-center justify-between mx-5 md:mx-10 border-b mb-5">
                       <h4>Live Link</h4>
                       <Image
-                        src="/icons/Arrow-circle.svg"
+                        src="https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784628/public/icons/Arrow-circle_vmqdha.svg"
                         alt="arrow"
                         width={30}
                         height={30}
@@ -161,7 +161,7 @@ const page = () => {
                     <div className="flex w-full items-center justify-between mx-5 md:mx-10 border-b mb-5">
                       <h4>Github</h4>
                       <Image
-                        src="/icons/Arrow-circle.svg"
+                        src="https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784628/public/icons/Arrow-circle_vmqdha.svg"
                         alt="arrow"
                         width={30}
                         height={30}
@@ -179,7 +179,7 @@ const page = () => {
                         <span className="text-gray-500">(Coming Soon)</span>
                       </h4>
                       <Image
-                        src="/icons/Arrow-circle.svg"
+                        src="https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784628/public/icons/Arrow-circle_vmqdha.svg"
                         alt="arrow"
                         width={30}
                         height={30}

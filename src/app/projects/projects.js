@@ -122,7 +122,7 @@ const projects = [
       "https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687785438/public/images/tech%20stack/vercel_jyz4mp.svg",
     ],
     codeLink: "https://github.com/Vishal-jatia/Malaria-Ai-Predictor",
-    liveLink: "",
+    liveLink: "https://vishal-jatia.vercel.app/",
     completed: true,
     image:
       "https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687791879/public/images/portfolio_o2guie.png",

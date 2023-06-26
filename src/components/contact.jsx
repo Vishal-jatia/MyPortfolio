@@ -28,7 +28,7 @@ const Contact = () => {
         >
           LinkedIn
           <Image
-            src="/icons/Arrow-circle.svg"
+            src="https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784628/public/icons/Arrow-circle_vmqdha.svg"
             alt="arrow"
             width={25}
             height={25}
@@ -40,7 +40,7 @@ const Contact = () => {
         >
           Instagram
           <Image
-            src="/icons/Arrow-circle.svg"
+            src="https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784628/public/icons/Arrow-circle_vmqdha.svg"
             alt="arrow"
             width={25}
             height={25}
@@ -52,7 +52,7 @@ const Contact = () => {
         >
           Github
           <Image
-            src="/icons/Arrow-circle.svg"
+            src="https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784628/public/icons/Arrow-circle_vmqdha.svg"
             alt="arrow"
             width={25}
             height={25}

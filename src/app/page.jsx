@@ -41,7 +41,7 @@ export default function Home() {
               <button className="border-2 text-base rounded-full p-5 py-2 w-full sm:w-fit flex items-center justify-between gap-5">
                 <h4>Web Developer</h4>
                 <Image
-                  src="/icons/Arrow-circle.svg"
+                  src="https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784628/public/icons/Arrow-circle_vmqdha.svg"
                   alt="arrow"
                   width={30}
                   height={30}
