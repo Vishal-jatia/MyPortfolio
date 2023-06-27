@@ -132,13 +132,15 @@ const page = () => {
               <div className="flex bg-gray-100 rounded-full justify-between py-1 px-5 max-w-[90%] mx-auto">
                 {project.techStack.map((link) => {
                   return (
-                    <Image
-                      src={link}
-                      alt="icon"
-                      width={40}
-                      height={40}
-                      className=""
-                    />
+                    <div className="scale-75 md:scale-100">
+                      <Image
+                        src={link}
+                        alt="icon"
+                        width={40}
+                        height={40}
+                        className=""
+                      />
+                    </div>
                   );
                 })}
               </div>

@@ -6,8 +6,12 @@ const Footer = () => {
   const year = date.getFullYear();
   return (
     <div className="flex justify-between py-5 border-t-2 items-center pl-5">
-      <h1 className="text-base text-slate-200">Vishal Jatia</h1>
-      <p className="text-xs text-slate-300">All rights reserved ©️{year}</p>
+      <h1 className="text-sm md:text-base scale-75 md:scale-100 text-slate-200">
+        Vishal Jatia
+      </h1>
+      <p className="scale-75 md:scale-100 text-[0.6rem] text-slate-300 items-center">
+        All rights reserved ©️{year}
+      </p>
       <div className="mr-5 flex">
         <Link
           href="https://www.instagram.com/v._.i_s_h_a_l/"
@@ -43,7 +47,6 @@ const Footer = () => {
           />
         </Link>
       </div>
-      
     </div>
   );
 };
