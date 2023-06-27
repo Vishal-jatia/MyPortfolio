@@ -127,6 +127,12 @@ export default function RootLayout({ children }) {
           content="https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687170236/favicon2_dgzorq.png"
         />
       </head> */}
+      <head>
+        <meta
+          name="google-site-verification"
+          content="eR8uQdkSygGEOlgcTZVp6Lyq23LMh8MyxjcSvlt4wJw"
+        />
+      </head>
       <body className={zen.className}>
         <main className="overflow-x-hidden" suppressHydrationWarning={true}>
           <Loading />
