@@ -4,12 +4,35 @@ import { Inter } from "next/font/google";
 import Link from "next/link.js";
 import Image from "next/image.js";
 import { motion } from "framer-motion";
+// import Head from "next/head.js";
 // import Slider from "../../components/Slider.jsx"
 import Contact from "@/components/contact.jsx";
 const inter = Inter({
   subsets: ["latin"],
   variable: "--font-inter",
 });
+
+// export const metadata = {
+//   title: {
+//     absolute: "Projects - Vishal Jatia",
+//   },
+//   description: "Welcome to the portfolio of Vishal Jatia",
+//   openGraph: {
+//     title: "Projects - Vishal Jatia",
+//     type: "website",
+//     description:
+//       "Hey everyone! You are visiting the official portfolio of Vishal Jatia, who is a software developer from Delhi, India. Developing websites has been a passion for him and has been developing since 2021. He is also interested in machine learning and have participated in many hackathons. He is a very active learner and is always on the journey to learn new technologies.",
+//     url: "https://vishal-jatia.vercel.app/",
+//     siteName: "vishal-jatia",
+//     images: [
+//       {
+//         url: "https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687170236/favicon2_dgzorq.png",
+//         alt: "Vishal Jatia",
+//       },
+//     ],
+//     locale: "en_IN",
+//   },
+// };
 
 const page = () => {
   // const settings = {
