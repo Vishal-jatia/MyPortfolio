@@ -14,7 +14,8 @@ const zen = Zen_Dots({
 
 export const metadata = {
   title: {
-    default: "Vishal Jatia - Software Developer",
+    default:
+      "Vishal Jatia - Professional Software Developer | Web Development and Machine Learning",
     template: "%s",
   },
   viewport: {
@@ -23,7 +24,7 @@ export const metadata = {
     maximumScale: 1,
   },
   description:
-    "Hey everyone! You are visiting the official portfolio of Vishal Jatia, who is a software developer from Delhi, India. Developing websites has been a passion for him and has been developing since 2021. He is also interested in machine learning and have participated in many hackathons. He is a very active learner and is always on the journey to learn new technologies.",
+    "Discover the impressive portfolio of Vishal Jatia, a skilled software developer in Delhi, India. Specializing in web development and machine learning, Vishal creates engaging websites and solves complex problems with creativity.",
   keywords: [
     "Vishal jatia",
     "portfolio",
