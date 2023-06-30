@@ -42,7 +42,7 @@ const Nav = () => {
               <p
                 className={`bg-[#A5FFD6] text-black rounded-full px-4 my-2 mr-2 ${inter.variable} font-inter`}
               >
-                view
+                View
               </p>
             </Link>
             <Link
@@ -130,7 +130,7 @@ const Nav = () => {
                 <p
                   className={`bg-[#A5FFD6] text-black rounded-full px-4 my-2 mr-2 ${inter.variable} font-inter`}
                 >
-                  view
+                  View
                 </p>
               </Link>
               <Link
