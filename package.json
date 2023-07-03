@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
     "@splinetool/react-spline": "^2.2.6",
     "@syncfusion/ej2": "^21.2.10",
     "@syncfusion/ej2-react-calendars": "^19.4.48",
@@ -25,6 +26,8 @@
     "chart.js": "^4.3.0",
     "file-loader": "^6.2.0",
     "framer-motion": "^10.12.16",
+    "gsap": "^3.12.2",
+    "locomotive-scroll": "^4.1.4",
     "next": "13.4.6",
     "next-images": "^1.8.5",
     "nodemailer": "^6.9.3",
@@ -33,6 +36,7 @@
     "react-chartjs-2": "^5.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.3.1",
+    "react-locomotive-scroll": "^0.2.2",
     "react-slick": "^0.29.0",
     "react-spinner": "^0.2.7",
     "react-spinners": "^0.13.8",

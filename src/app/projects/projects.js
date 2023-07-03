@@ -89,7 +89,7 @@ const projects = [
     name: "Malaria Management Using AI",
     description:
       "Introducing MalariaMind, an advanced AI model revolutionizing the fight against malaria by leveraging extensive global data analysis. MalariaGuardian analyzes historical malaria cases from around the world and provides actionable insights and effective measures tailored to specific locations to combat various species of mosquitoes. Drawing on a vast database of historical malaria data, MalariaGuardian utilizes machine learning algorithms to identify patterns, trends, and correlations in mosquito-borne disease outbreaks. By considering factors such as climate, geography, mosquito species prevalence, and past intervention strategies, MalariaGuardian generates comprehensive recommendations to help individuals and communities take the most effective measures against different mosquito species.",
-    type: "WEB DEVELOPMENT",
+    type: "MACHINE LEARNING",
     startDate: "2023/01/24",
     endDate: "2023/01/26",
     techStack: [

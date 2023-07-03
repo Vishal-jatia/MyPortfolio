@@ -14,9 +14,8 @@ const zen = Zen_Dots({
 
 export const metadata = {
   title: {
-    default:
-      "Vishal Jatia - Professional Software Developer | Web Development and Machine Learning",
-    template: "%s",
+    default: "Vishal Jatia - Professional Software Developer | Web Development and Machine Learning",
+    template: '%s',
   },
   viewport: {
     width: "device-width",
@@ -134,13 +133,12 @@ export default function RootLayout({ children }) {
           content="eR8uQdkSygGEOlgcTZVp6Lyq23LMh8MyxjcSvlt4wJw"
         />
       </head>
-      <body className={zen.className}>
-        <main className="overflow-x-hidden" suppressHydrationWarning={true}>
+      <body className={`${zen.className} bg-black`}>
+        <main className="overflow-x-hidden">
           <Loading />
           <Nav />
           {children}
           <Footer />
-          <div />
         </main>
       </body>
     </html>
