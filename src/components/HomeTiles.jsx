@@ -185,7 +185,7 @@ const HomeTiles = () => {
           delay: 0.15,
         }}
       >
-        <Link href="/" className={`text-black font-medium rounded-full mb-5 pl-5 `}>
+        <Link href="/" className={`text-black font-medium rounded-full mb-5 `}>
           <h3
             className={`border-2 border-black rounded-full px-4 inline ${zen.variable} font-zen group-hover/2:bg-white group-hover/2:text-black group-hover/2:border-white`}
           >
