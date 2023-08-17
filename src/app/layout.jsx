@@ -132,6 +132,7 @@ export default function RootLayout({ children }) {
           name="google-site-verification"
           content="eR8uQdkSygGEOlgcTZVp6Lyq23LMh8MyxjcSvlt4wJw"
         />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
       </head>
       <body className={`${zen.className} bg-black`}>
         <main className="overflow-x-hidden">
