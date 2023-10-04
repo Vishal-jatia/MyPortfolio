@@ -134,7 +134,7 @@ const Nav = () => {
                 </p>
               </Link>
               <Link
-                href="/files/Resume.pdf"
+                href="https://my-resume-vishal-jatia.tiiny.site"
                 alt="Resume"
                 target="_blank"
                 rel="noopener noreferrer"
