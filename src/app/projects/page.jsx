@@ -6,7 +6,7 @@ import Image from "next/image.js";
 import { motion } from "framer-motion";
 // import Head from "next/head.js";
 // import Slider from "../../components/Slider.jsx"
-import Contact from "@/components/contact.jsx";
+import Contact from "../../components/contact.jsx";
 const inter = Inter({
   subsets: ["latin"],
   variable: "--font-inter",
