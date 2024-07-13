@@ -2,7 +2,7 @@
 import Image from "next/image";
 import { Zen_Dots } from "next/font/google";
 import { Inter } from "next/font/google";
-import HomeTiles from "@/components/HomeTiles";
+import HomeTiles from "../components/HomeTiles";
 import { motion } from "framer-motion";
 
 const inter = Inter({

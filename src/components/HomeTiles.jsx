@@ -3,7 +3,7 @@ import Image from "next/image.js";
 import { Zen_Dots } from "next/font/google";
 import { motion } from "framer-motion";
 import Graph from "./Graph.jsx";
-import projects from "@/app/projects/projects.js";
+import projects from "../app/projects/projects.js";
 import Contact from "./contact.jsx";
 import Skills from "./skills.jsx";
 
