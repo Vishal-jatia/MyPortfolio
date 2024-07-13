@@ -1,6 +1,6 @@
 import { Inter, Zen_Dots } from "next/font/google";
-import Nav from "../components/Nav";
-import Footer from "../components/Footer";
+import Nav from "../../components/Nav";
+import Footer from "../../components/Footer";
 import Loading from "../loading";
 
 export const metadata = {
