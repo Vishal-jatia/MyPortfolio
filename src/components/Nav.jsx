@@ -45,8 +45,19 @@ const Nav = () => {
                 View
               </p>
             </Link>
+            {/* <Link
+              href="/codingStats"
+              className="border rounded-full px-1 flex justify-between items-center cursor-pointer  "
+            >
+              <h2 className="ml-5 w-max mr-10 lg:mr-20">Coding stats</h2>
+              <p
+                className={`bg-[#eda5ff] text-black rounded-full px-4 my-2 mr-2 ${inter.variable} font-inter`}
+              >
+                View
+              </p>
+            </Link> */}
             <Link
-              href="https://my-resume-vishal-jatia.tiiny.site"
+              href="https://res.cloudinary.com/dhe0y0a7n/raw/upload/v1720861385/public/files/VishalJatia.resume.docx"
               alt="Resume"
               target="_blank"
               rel="noopener noreferrer"
@@ -134,7 +145,7 @@ const Nav = () => {
                 </p>
               </Link>
               <Link
-                href="https://my-resume-vishal-jatia.tiiny.site"
+                href="https://res.cloudinary.com/dhe0y0a7n/raw/upload/v1720861385/public/files/VishalJatia.resume.docx"
                 alt="Resume"
                 target="_blank"
                 rel="noopener noreferrer"

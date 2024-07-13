@@ -120,7 +120,7 @@ const page = () => {
                           alt="icon"
                           width={40}
                           height={40}
-                          className=""
+                          className="bg-cover"
                         />
                       </div>
                     );

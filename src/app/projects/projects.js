@@ -1,6 +1,26 @@
 const projects = [
   {
     key: 1,
+    name: "Video Streaming platform backend",
+    description:
+      "Developed a scalable backend using JavaScript, Node.js, and MongoDB, improving response times by 30% due to optimized database queries and efficient server-side processing. Utilized MongoDB aggregation pipelines, reducing query execution time by 40% through efficient data processing and analysis, enhancing overall application performance. Designed RESTful APIs for seamless frontend integration, improved data accessibility and faster response times. Implemented best practices for security, error handling, and logging, ensuring robust authentication, comprehensive logging, and proactive error management.",
+    type: "BACKEND",
+    startDate: "2024/07/06",
+    endDate: "2023/07/10",
+    techStack: [
+      "https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784637/public/images/tech%20stack/javascript_ufiouk.svg",
+      "https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784636/public/images/tech%20stack/nodejs_ouk7ub.svg",
+      "https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784633/public/images/tech%20stack/mongodb_evcjlx.svg",
+      "https://res.cloudinary.com/dhe0y0a7n/image/upload/v1720861068/public/images/tech%20stack/alwzfhuiy4hjqe4axxy3.png"
+    ],
+    codeLink: "https://github.com/Vishal-jatia/youtube-backend",
+    liveLink: "",
+    completed: true,
+    image:
+      "https://res.cloudinary.com/dhe0y0a7n/image/upload/v1720860706/public/images/xhd8xpp7ntwbdrz087px.png",
+  },
+  {
+    key: 2,
     name: "PromptKeeper",
     description:
       "Introducing PromptKeeper, the ultimate web app designed to help users store and organize their favorite prompts all in one convenient place. PromptKeeper leverages the power of Google login to offer a seamless and secure experience for its users. Whether it's creative writing prompts, discussion starters, or thought-provoking questions, PromptKeeper allows users to save and categorize their favorite prompts for future use.\
@@ -23,7 +43,7 @@ const projects = [
       "https://user-images.githubusercontent.com/97461410/248239931-25b2575c-24b0-4018-be04-d0643f8dd90d.png",
   },
   {
-    key: 2,
+    key: 3,
     name: "CourseLink: Ultimate Online Course Manager",
     description:
       "Introducing CourseLink: Your Ultimate Online Course Manager. CourseLink is a cutting-edge web application designed to revolutionize the way you manage and engage with your online learning experience. With CourseLink, you can seamlessly log into your personal account and access a wide range of features that will enhance your learning journey, all in one convenient place.",
@@ -45,7 +65,7 @@ const projects = [
       "https://res.cloudinary.com/dhe0y0a7n/image/upload/v1687784641/public/images/projects_buyo4s.png",
   },
   {
-    key: 3,
+    key: 4,
     name: "ColorSense: Real-Life Color Picker",
     description:
       "ColorSense is an innovative color picker device powered by Arduino Uno and equipped with an advanced color sensor. It offers a seamless and intuitive way to identify and capture colors from real-life objects simply by pointing the sensor towards them. With ColorSense, exploring the world of colors becomes an interactive and engaging experience.",
@@ -62,7 +82,7 @@ const projects = [
       "https://user-images.githubusercontent.com/97461410/248561865-a8669bb2-d53e-4e2b-aaab-9a47f26edf93.jpeg",
   },
   {
-    key: 4,
+    key: 5,
     name: "RealtySpot: A Comprehensive Real Estate Website",
     description:
       "RealtySpot is a state-of-the-art web application designed to revolutionize the way you search for properties. With RealtySpot, you can effortlessly view all the available properties in your desired location and gain access to a wide range of powerful tools to refine your search based on your preferences. Whether you're a homebuyer, an investor, or a real estate enthusiast, RealtySpot is your go-to destination for finding the perfect property.",
@@ -85,7 +105,7 @@ const projects = [
       "https://user-images.githubusercontent.com/97461410/248562869-4ae912cf-4bd4-44fe-abfa-2f84f71da8c1.png",
   },
   {
-    key: 5,
+    key: 6,
     name: "Malaria Management Using AI",
     description:
       "Introducing MalariaMind, an advanced AI model revolutionizing the fight against malaria by leveraging extensive global data analysis. MalariaGuardian analyzes historical malaria cases from around the world and provides actionable insights and effective measures tailored to specific locations to combat various species of mosquitoes. Drawing on a vast database of historical malaria data, MalariaGuardian utilizes machine learning algorithms to identify patterns, trends, and correlations in mosquito-borne disease outbreaks. By considering factors such as climate, geography, mosquito species prevalence, and past intervention strategies, MalariaGuardian generates comprehensive recommendations to help individuals and communities take the most effective measures against different mosquito species.",
@@ -107,7 +127,7 @@ const projects = [
       "https://user-images.githubusercontent.com/97461410/248460886-6d5099f3-5b88-41a6-bc61-69ba66be96ae.jpg",
   },
   {
-    key: 6,
+    key: 7,
     name: "Portfolio Website",
     description:
       "Introducing a cutting-edge personal portfolio website built with Next.js 13 and Tailwind, incorporating the latest design trends and developed with best practices in mind. This meticulously crafted website showcases my professional accomplishments, skills, and creative projects in an immersive and visually stunning manner. The first thing that sets this portfolio apart is its utilization of Next.js 13, the latest version of the popular React framework. Next.js 13 brings enhanced performance, improved development experience, and increased scalability to ensure your website loads swiftly and delivers an exceptional user experience across devices and platforms.",
